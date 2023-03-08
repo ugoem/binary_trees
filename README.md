@@ -1,4 +1,4 @@
-# binary Trees
+# Binary Trees
 A project to implement Binary trees and Binary Search Trees in C Language
 
 ## Learning Objectives
